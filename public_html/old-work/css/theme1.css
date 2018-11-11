@@ -1,0 +1,26 @@
+  body,
+    h1,
+    h2,
+    h3,
+    h4 {
+        /*font-family: "Raleway", Arial, sans-serif;*/
+        font-family: 'Questrial', sans-serif;
+    }
+    body{background-color:blue;}
+    .main-section-img {
+        background-image: url('img/foundation-desktop.jpg');
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 600px;
+        opacity:.5;
+    }
+    h1 {
+        letter-spacing: 6px;
+        font-size:70px;
+    }
+    .w3-row-padding img {
+        margin-bottom: 12px
+    }
+    .photo-head {
+        height: 100px;
+    }
